@@ -6,7 +6,7 @@ export default function Footer() {
     return(
 
         <footer className="pt-20 flex flex-col justify-center">
-            <p className="text-center font-medium border-black ustify-center items-center gap-3 px-3">
+            <p className="text-center text-sm font-medium border-black ustify-center items-center gap-3 px-5">
                 Developed by AgroConnect team
                 <span className="font-normal"> &copy; </span>
                 {new Date().getFullYear()}, all rights reserved.

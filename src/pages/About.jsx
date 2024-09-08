@@ -7,14 +7,14 @@ import { GlobalStates } from "../GlobalStates";
 export default function About() {
 
   return (
-      <main className="flex flex-col justify-start items-center">
-        <header id="top" className="w-screen h-20" />
+      <main className="justify-start">
+        <header id="top" className="w-screen h-20"/>
         <Navbar currentPage={4}/>
-          <div className="border border-[var(--font-color)] w-60 h-60 mb-5" />
-          <div className="border border-[var(--font-color)] w-60 h-60 mb-5" />
-          <div className="border border-[var(--font-color)] w-60 h-60 mb-5" />
-          <div className="border border-[var(--font-color)] w-60 h-60 mb-5" />
-          <div className="border border-[var(--font-color)] w-60 h-60" />
+
+        <section className="h-screen">
+          <h1 className="text-5xl mb-5">About</h1>
+        </section>
+
         <Footer />
       </main>
   )

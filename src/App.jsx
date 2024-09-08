@@ -9,6 +9,9 @@ import Account from './pages/Account';
 import Login from "./pages/login";
 import Signup from "./pages/signup";
 import { GlobalStateProvider } from "./GlobalStates";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+
 
 
 

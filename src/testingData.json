@@ -1,0 +1,92 @@
+[
+    {
+        "name": "cucumber",
+        "description": "",
+        "image": "/products_images/cucumber.jpg",
+        "Price": 10,
+        "stars": 4,
+        "numberOfRatings": 13,
+        "amount": 50,
+        "provider": "Mohamed"
+    },
+    {
+        "name": "tomato",
+        "description": "",
+        "image": "/products_images/tomato.png",
+        "Price": 9,
+        "stars": 4,
+        "numberOfRatings": 6,
+        "amount": 32,
+        "provider": "Said"
+    },
+    {
+        "name": "potato",
+        "description": "",
+        "image": "/products_images/potato.jpg",
+        "Price": 25,
+        "stars": 3,
+        "numberOfRatings": 21,
+        "amount": 10,
+        "provider": "Ali"
+    },
+    {
+        "name": "lime",
+        "description": "",
+        "image": "/products_images/lime.jpg",
+        "Price": 30,
+        "stars": 5,
+        "numberOfRatings": 44,
+        "amount": 15,
+        "provider": "Walid"
+    },
+    {
+        "name": "carrot",
+        "description": "",
+        "image": "/products_images/carrot.jpg",
+        "Price": 6,
+        "stars": 3,
+        "numberOfRatings": 25,
+        "amount": 6,
+        "provider": "Ahmed"
+    },
+    {
+        "name": "kiwi",
+        "description": "",
+        "image": "/products_images/kiwi.jpg",
+        "Price": 50,
+        "stars": 4,
+        "numberOfRatings": 9,
+        "amount": 29,
+        "provider": "Hassan"
+    },
+    {
+        "name": "red onion",
+        "description": "",
+        "image": "/products_images/red_onion.png",
+        "Price": 13,
+        "stars": 4,
+        "numberOfRatings": 17,
+        "amount": 62,
+        "provider": "Khaled"
+    },
+    {
+        "name": "orange",
+        "description": "",
+        "image": "/products_images/orange.jpg",
+        "Price": 14,
+        "stars": 2,
+        "numberOfRatings": 2,
+        "amount": 83,
+        "provider": "Samir"
+    },
+    {
+        "name": "apple",
+        "description": "",
+        "image": "/products_images/apple.jpg",
+        "Price": 33,
+        "stars": 3,
+        "numberOfRatings": 5,
+        "amount": 19,
+        "provider": "Abd-Allah"
+    }
+]

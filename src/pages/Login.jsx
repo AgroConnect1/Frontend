@@ -8,7 +8,7 @@ export default function Login() {
   const { setLoginState } = useContext(GlobalStates);
 
   return (
-      <main className="flex flex-col h-screen w-screen justify-center items-center">
+      <main className="justify-center">
 
             <Link to="/products"><button onClick={() => setLoginState(true)} className="btn1 text-4xl">Login</button></Link>
             <Link to="/signup"><a className="underline mt-5">not logged on?</a></Link>
