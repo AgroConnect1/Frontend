@@ -1,5 +1,5 @@
 ###### ![download](https://github.com/user-attachments/assets/70168205-3fb1-4e7e-8a72-b3fed7df1c24)
-# AgroConnect Front end Repository
+# Front end Repository
 ## [Figma Design](https://www.figma.com/design/d5vFBWfqNduORUUUQlGsQD/AgroConnect?node-id=0-1&node-type=canvas&t=i34BJcQ55c7Aupnk-0)
 ## Technologies:
 * [HTML](https://www.w3schools.com/html/)
