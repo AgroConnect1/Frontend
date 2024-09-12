@@ -31,7 +31,7 @@
 * Footer
 
 ## Intallation
-1- Clone the repo locally in your device
+1- Clone the repository locally in your device
 ```sh
 git clone "https://github.com/AgroConnect1/Frontend.git"
 ```
