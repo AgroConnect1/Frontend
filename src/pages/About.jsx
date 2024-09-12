@@ -7,12 +7,12 @@ import { GlobalStates } from "../GlobalStates";
 export default function About() {
 
   return (
-      <main className="justify-start">
+      <main className="justify-between">
         <header id="top" className="w-screen h-20"/>
         <Navbar currentPage={4}/>
 
         <h1 className="text-4xl text-left mb-5 w-full ml-20">About us</h1>
-        <section className="h-fit my-5 mx-10 flex justify-between flex-col md:flex-row">
+        <section className="h-fit my-5 mx-11 flex justify-between flex-col md:flex-row gap-y-12">
           <div className="w-10/12 mx-auto md:w-6/12">
             We seek improving the agricultural market locally and decrease the waste and improve the produce quality. <br /> <br />
             Our agriculture marketplace is a web platform designed to connect farmers with consumers. By leveraging data analysis, the platform predicts which crops are in demand, reducing waste and spoilage as the market expands. <br /> <br />
