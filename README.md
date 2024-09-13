@@ -30,7 +30,7 @@
 * Support
 * Footer
 
-## Intallation
+## Installation
 1- Clone the repository locally in your device
 ```sh
 git clone "https://github.com/AgroConnect1/Frontend.git"
