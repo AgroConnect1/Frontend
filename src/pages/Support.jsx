@@ -77,7 +77,7 @@ export default function Support() {
         </form>
       </div>
       <div className="w-80 h-80 mt-4 mx-auto self-center">
-        <img src="../../public/support-svgrepo-com.svg" alt="About us Image" />
+        <img src="../../public/support-svgrepo-com.svg" alt="Support Image" />
       </div>
     </section>
 
